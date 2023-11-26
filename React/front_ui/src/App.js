@@ -23,6 +23,3 @@ function App() {
 
 export default App;
 
-// video url
-// https://www.youtube.com/watch?v=f5ygXQKF6M8&ab_channel=ArtofEngineer
-// missing file upload
